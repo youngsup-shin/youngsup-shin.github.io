@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+
+h1.header {
+  color: red;
+  font-size: 40px;
+  background-color: cyan;
+  text-align: center;
+  font-family: monospace;
+  font-weight: lighter;
+  font-style: italic;
+}
+h1 {
+  color: purple;
+  background-image: htc.jpg;
+}
+img.burrito {
+  width: 100px;
+}
