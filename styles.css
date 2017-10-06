@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  font-family: 'Roboto', sans-serif;
 }
 
 
@@ -8,9 +9,7 @@ h1.header {
   font-size: 40px;
   background-color: cyan;
   text-align: center;
-  font-family: monospace;
-  font-weight: lighter;
-  font-style: italic;
+
 }
 h1 {
   color: purple;
@@ -18,4 +17,7 @@ h1 {
 }
 img.burrito {
   width: 100px;
+}
+div.heading {
+  padding: 20;
 }
