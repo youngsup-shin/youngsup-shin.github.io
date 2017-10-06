@@ -1,11 +1,19 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: white;
 }
 
 img.handsome {
   width: 250px;
 
 }
+
+h1 {
+font-family: 'Roboto', sans-serif;
+color: black;
+
+}
+
 
 h3.header {
   font-family: 'Germania One', cursive;
